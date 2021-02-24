@@ -26,7 +26,7 @@ SECRET_KEY = 'kd-j4(rk46-bw0mve7g@ldu3bc=n+y&sit@frr#no6u23icyia'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['herokueng-dict-app.herokuapp.com']
+ALLOWED_HOSTS = ['eng-dict-app.herokuapp.com']
 
 
 # Application definition
