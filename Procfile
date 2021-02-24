@@ -1,0 +1,1 @@
+web: gunicorn eng_dictionary.wsgi --log-file -
